@@ -12,7 +12,7 @@
 
 - :technologist: Soy un apacionado del desarrollo Front-end, con muchisimas ganas de aprender y mejorar en cada paso mis conocimientos.
 - :thinking: Actualmente estoy en busqueda de un nuevo `Puesto de Trabajo`, Este es mi CV [📄](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: Este es mi Portafolio [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: Este es mi Portafolio.
 <br>
 
 ## 🛠️ Mis Habilidades
